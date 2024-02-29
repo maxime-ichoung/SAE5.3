@@ -36,7 +36,7 @@ Chaque notebook contient les instructions nécessaires sur son but, la mise en p
 ## Configuration Requise
 
 - Python 3.8 ou plus.
-- Bibliothèques : OpenCV, scikit-learn, matplotlib, numpy, pickle.
+- Bibliothèques : OpenCV, scikit-learn, matplotlib, numpy, pickle, tensorflow.
 - Caméra intégrée ou externe.
 
 Chaque algorithme de classification utilisé dans le projet de reconnaissance faciale possède ses spécificités et répond à des défis particuliers liés à la reconnaissance faciale en temps réel. Voici une explication détaillée pour chacun, y compris la gestion des individus non reconnus à l'aide d'un seuil de confiance.
