@@ -1,3 +1,4 @@
+Mansour SY - Maxime ICHOUNG-THOE
 # README pour le projet de reconnaissance faciale
 
 ## Description du Projet
